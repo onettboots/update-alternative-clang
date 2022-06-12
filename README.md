@@ -13,6 +13,7 @@ How to run ?
 set up --config
 - sudo update-alternatives --config clang
 - sudo update-alternatives --config llvm-config
+
 for check any settings 
 - clang -v 
 - opt -version
